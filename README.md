@@ -1,4 +1,3 @@
-## Projek Bebas Pakai dan Modifikasi
 ## Cara Install Projek Ini
 - Jalankan `git clone https://github.com/yosi-rifai/lara-ppdb`
 - Jalankan composer install.
